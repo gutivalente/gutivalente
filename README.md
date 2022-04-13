@@ -1,8 +1,8 @@
 <h2>🙃 About me</h2>
 
 - 💼 Working as a **Frond end dev | Designer** at <a href="https://www.saibro.tech/">SaibroTech</a>
-- 🎓 Graduated in **Design**, post-graduated in **Illustration** at <a href="https://www.univali.br/">Univali</a>.
-- 🌱 Currently learning **React**.
+- 🎓 Graduated in **Design**, post-graduated in **Illustration** at <a href="https://www.univali.br/">Univali</a>
+- 🌱 Currently learning **React**
 
 <h2>🖥 My skills</h2>
 
@@ -11,6 +11,7 @@
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react&logoColor=61DAFB)
   ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js&logoColor=000000)
   ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular&logoColor=DD0031)
+  ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux&logoColor=764ABC)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker&logoColor=2496ED)
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git&logoColor=F05032)
   ![SVG](https://img.shields.io/badge/-SVG-333333?style=flat&logo=svg&logoColor=FFB13B)
