@@ -1,10 +1,10 @@
-<h2>🙃 About me</h2>
+## 🙃 About me
 
 - 💼 Working as a **Frond end dev | Designer** at <a href="https://www.saibro.tech/">SaibroTech</a>
 - 🎓 Graduated in **Design**, post-graduated in **Illustration** at <a href="https://www.univali.br/">Univali</a>
 - 🌱 Currently learning **React**
 
-<h2>🖥 My skills</h2>
+## 🧰 My skills
 
 - **Technologies**
 
@@ -34,15 +34,25 @@
   ![Inkscape](https://img.shields.io/badge/-Inkscape-333333?style=flat&logo=inkscape&logoColor=000000)
   ![Gimp](https://img.shields.io/badge/-Gimp-333333?style=flat&logo=gimp&logoColor=5C5543)
 
+## 🖥 My projects
+
+<a href="https://github.com/gutivalente/gutivalente.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gutivalente&repo=gutivalente.github.io&theme=gruvbox" />
+</a>
+
+<a href="https://github.com/gutivalente/aluracord-glitch">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gutivalente&repo=aluracord-glitch&theme=gruvbox" />
+</a>
+
+<br/>
+
+## 💬 You can contact me here
+
+[![Linkedin: Gustavo](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gutivalente/)](https://www.linkedin.com/in/gutivalente/)
+[![Gmail Badge](https://img.shields.io/badge/-gutivalente@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:gutivalente@gmail.com)](mailto:gutivalente@gmail.com)
+
 <br/>
 
 <a href="https://github.com/gutivalente">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gutivalente&theme=gruvbox&show_icons=true" />
 </a>
-
-<br/>
-
-<h2>🔍 You can also find me here</h2> 
-
-[![Linkedin: Gustavo](https://img.shields.io/badge/-gutivalente-0A66C2?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gutivalente/)](https://www.linkedin.com/in/gutivalente/)
-[![Gmail Badge](https://img.shields.io/badge/-gutivalente@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:gutivalente@gmail.com)](mailto:gutivalente@gmail.com)
