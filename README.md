@@ -44,6 +44,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gutivalente&repo=aluracord-glitch&theme=gruvbox" />
 </a>
 
+<a href="https://github.com/gutivalente/rpg-class-test">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gutivalente&repo=rpg-class-test&theme=gruvbox" />
+</a>
+
 <br/>
 
 ## 💬 You can contact me here
